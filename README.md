@@ -1,0 +1,1 @@
+Hey, If your reading this i might have got better with my programming. Having started with Lua i have acquired a bit of skill over months. Now i've realized this isnt as fun as it could be. I hope this cpp journey will take me somewhere :)
